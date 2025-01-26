@@ -67,7 +67,7 @@ python md_collector.py
 ## 動作環境
 
 - Python 3.11以上
-- flet 0.19.0以上
+- flet 0.25.2以上
 
 ## ライセンス
 
