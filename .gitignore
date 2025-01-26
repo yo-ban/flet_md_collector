@@ -1,0 +1,9 @@
+# for python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+storage/
+config.json
